@@ -34,3 +34,4 @@ var isWindowValid = function (map, k) {
 
   return totalCount - maxCount <= k;
 };
+
